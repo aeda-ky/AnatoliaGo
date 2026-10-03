@@ -10,6 +10,14 @@ The project combines a PHP-based backend with a MySQL database and a
 web interface for destination discovery, route planning, and
 community interaction.
 
+## 🌍 Application Overview
+
+![AnatoliaGo Home Page](anasayfa.png)
+
+The home page provides destination discovery, popular places,
+category-based exploration, and quick access to the main features of
+the platform.
+
 ---
 
 ## ✨ Features
@@ -17,6 +25,14 @@ community interaction.
 ### 🔐 User Authentication
 Users can create accounts, log in, manage their sessions, and access
 personalized features.
+
+### 👤 Personalized User Profile
+
+Users can manage their travel activity through a personalized profile,
+including saved routes, favorite places, favorite routes, rated places,
+and their own shared routes.
+
+![AnatoliaGo User Profile](profil.png)
 
 ### 🏙️ Discover Cities & Places
 Users can select cities and explore popular attractions and places
@@ -37,6 +53,7 @@ created by other travelers.
 Community routes can be filtered by city, making it easier to discover
 travel plans for a specific destination.
 
+![AnatoliaGo Community Routes](rotalar.png)
 ### ⭐ Route Rating
 Community-created routes can be rated, allowing users to evaluate and
 discover useful travel plans.
@@ -59,6 +76,9 @@ The map supports:
 - Visual exploration of destinations
 - Selecting places for personalized routes
 - Creating routes from selected destinations
+
+  
+ ![AnatoliaGo Interactive Map](harita.png)
 ---
 
 ## 🛠️ Tech Stack
