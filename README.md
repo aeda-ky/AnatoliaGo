@@ -45,6 +45,20 @@ discover useful travel plans.
 Administrative functionality provides management operations for
 users, cities, locations, routes, and ratings.
 
+### 🗺️ Interactive Map & Route Planning
+
+Users can explore destinations directly on an interactive map and view
+where selected places are located geographically.
+
+The map supports:
+
+- City-based destination discovery
+- Category filtering
+- Location markers
+- Place search
+- Visual exploration of destinations
+- Selecting places for personalized routes
+- Creating routes from selected destinations
 ---
 
 ## 🛠️ Tech Stack
@@ -64,7 +78,11 @@ users, cities, locations, routes, and ratings.
 - JavaScript
 
 ### Maps & Location
-- Interactive map functionality for destination and route exploration
+- Leaflet
+- OpenStreetMap
+- Interactive location markers
+- Map-based destination discovery
+- Route planning
 
 ---
 
